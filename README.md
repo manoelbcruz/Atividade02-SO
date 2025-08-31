@@ -1,5 +1,6 @@
 <h1 align="center"\>💻 Simulador de Hypervisor 🚀<h1\>
 <p align="center"\><strong\>Uma demonstração prática de programação concorrente, condições de corrida e sincronização de threads em Java.</strong\></p\>
+
 -----
   
 ## 🧠 O Conceito
