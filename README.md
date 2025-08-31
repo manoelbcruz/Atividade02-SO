@@ -117,17 +117,3 @@ Com a sincronização ativada, a saída é perfeitamente ordenada. Cada VM execu
 [OS Núcleo - VM1-Desktop_OS] Processando dados: Pacote de dados para VM1-Desktop #81
 ----------------------------------------------------------
 ```
-
------
-
-## ✍️ Autor
-
-  * **[Seu Nome Completo Aqui]**
-  * **LinkedIn**: `https://linkedin.com/in/seu-usuario`
-  * **GitHub**: `https://github.com/seu-usuario`
-
------
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
